@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Testing Jenkins work with Maven and Github! Version 2.0" );
+        System.out.println( "Testing Jenkins and Maven! Check Check Check!" );
     }
 }
